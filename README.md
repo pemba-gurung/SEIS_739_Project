@@ -10,6 +10,10 @@ Some big challenges I faced during the creation of this project was integrating 
 # UML Diagram for the Backend
 <img width="471" height="539" alt="Screenshot 2026-02-05 at 7 33 20 PM" src="https://github.com/user-attachments/assets/ba54d275-0444-49b7-9784-26997b31ad5e" />
 
+# Sequence Diagram
+<img width="551" height="552" alt="Screenshot 2026-02-05 at 7 55 17 PM" src="https://github.com/user-attachments/assets/0733658e-341a-4e41-9440-7809c05dc4fc" />
+
+
 
 # Diagram for Database
 
@@ -28,3 +32,4 @@ Data Model for List and Task using forward engineering.
 
 # Main Page Outline
 ![main-page](https://github.com/user-attachments/assets/7a46572f-52be-4223-8ae6-8374a17eb611)
+
